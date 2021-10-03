@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Je suis Alexandre Caramel</h1>
+<h1 align="center">Salut 👋, Je suis Alexandre Caramel</h1>
 <h3 align="center">Actuellement étudiant en 3ème année de développement web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terminev&label=Profile%20views&color=0e75b6&style=flat" alt="terminev" /> </p>
