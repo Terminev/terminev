@@ -1,11 +1,7 @@
 <h1 align="center">Salut 👋, Je suis Alexandre Caramel</h1>
-<h3 align="center">Actuellement étudiant en 3ème année de développement web</h3>
+<h3 align="center">Actuellement étudiant en 1ère année de Master en développement web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terminev&label=Profile%20views&color=0e75b6&style=flat" alt="terminev" /> </p>
-
-- 🌱 Je suis en train d'apprendre : **Django et React**
-
-- 👨‍💻 Mon portfolio est disponible : [https://portfolio.alexandre-caramel.fr/](https://portfolio.alexandre-caramel.fr/)
 
 - 📫 Pour me contacter : **caramel.alexandre@gmail.com**
 
